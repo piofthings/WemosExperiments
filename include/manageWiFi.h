@@ -3,6 +3,8 @@
    
   class ManageWifi{
     public:
+      //void saveConfigCallback();
+
       void configure ();
 
   };
